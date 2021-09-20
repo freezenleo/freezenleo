@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Full stack web developer with quality engineer experience over products and production. Certificate from University of Texas at Austin coding boot camp, and possess strong skills  in full stack web technologies, team-building, and project management that help all companies complete their tasks/goals in a timely manner. Skills in HTML, CSS, JavaScript, Node.js, SQL, Sequelize, and handlebars. My technical skills, combined with problem solving abilities, optimization,  and determination, make me a strong addition to any engineering team.
 <!--
 **freezenleo/freezenleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
